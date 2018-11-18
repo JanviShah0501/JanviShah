@@ -1,0 +1,141 @@
+body{
+	background-color: #76323F;
+	color: #C09F80;
+}
+.container{	width: 805;
+			margin-left: auto;
+			margin-right: auto;
+			background-color: #D8C3A5;
+			min-width: 960px;
+			max-width: 2048x;
+			box-shadow:3px 3px 3px #E98074b;
+}
+main { padding: 1px 20px 20px 30px;}
+header { background-color: #FFFFFF;
+         color: #76323F;
+		 text-align: center;
+		 padding: 25px;
+		 font-size: 40px;
+}
+h1 {
+	margin-bottom: 1;
+	margin-top: 1;
+	text-align: center;
+	color: #76323F
+}
+h2 {
+	margin-bottom: 0;
+	margin-top: 0;
+	text-align: center;
+	color: #C09F80
+}
+h3 { color: #D7CEC7}
+main {padding: 1px 20px 20px 30px;}
+nav {
+	background-color: #FFD700;
+	text-align: center;
+	font-size: 20px;
+	padding: 5px;
+nav a {text-decoration: none;}
+}
+body {
+	/*background-color: #ededed;*/
+	color: #666666;
+	background-image: linear gradiant(to bottom, #f5f5f5, #585858);
+	background-repeat: no-repeat;
+}
+#profileImage {	
+	background-image: url(Yogi.png);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	display: block;
+	width: 750px;
+	height: 350px;
+	margin: auto;
+	align: center;
+}
+.Row {display:table;
+	width: 100%;
+	height: 200px;}
+.image2 img {
+	float: left;
+	width: 30%;
+	height: 200px;
+	margin-top: 20px;
+	padding-left: 25px;
+}
+.desRow {
+	display: table;
+	width: 100%;
+	height: auto; }
+.picText {
+	float: left;
+	width: 30%;
+	height: auto;
+	font-size: 16px;
+	text-align: center;
+	padding-left: 25px;}
+.Major {color: red }
+.Row {display: table;
+	width: 100%;
+	height: 200px;}
+.description {
+	width: 15%;
+	float: left;
+	font-size: 20px; }
+.image img {
+	float: left;
+	width: 25%;
+	height: 200px;
+	margin-top: 20px;
+	padding-left: 25px;}
+iframe {
+	float: right;
+	padding-left: 20px;
+}
+table { border:1px solid #800000;
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+	border-spacing: 0;
+}
+td,th { padding: 5px;
+		color: black;
+}
+td (text-align: center;}
+.text {text-align: left;}
+tr:nth-of-type(odd) {background-color; #FFD700;}
+.tolearn {background-color: #FFFFCC;
+}
+.Row1 {display:table;
+	width: 20%;
+	height: 200px;
+}
+.video1{
+	width: 20%;
+	height: 200px;
+	margin-top: 20px;
+	padding-left: 5px;}
+}
+iframe {
+	float: left;
+	width: 30%;
+	height: auto;
+	text-align: center;
+	padding-left: 25px;
+}
+#gallery {	position: relative;
+			height: 280px; }
+figure { position: absolute;
+		left: 280px;
+		opacity:.25;}
+#gallery ul {list-style-type: none;
+			width:300px;}
+#gallery li {display: inline; float: left;
+		padding: 10px; text-align: center; }
+#gallery img {border-style:none}
+#gallery a {text-decoration: none;
+	font-style: italic; color#000000;}
+footer{
+	text-align: center;
+	padding: 2px 0;}
